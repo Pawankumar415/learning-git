@@ -15,3 +15,10 @@ def table(number):
     
 
 table(7)
+
+
+def check_age(age):
+    if age >= 18:
+        return "your able to vote"
+    else:
+        return "not able to vote"
