@@ -29,7 +29,11 @@ print("this is another test line")
 
 
 print("this is testing")
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> dd3876540e7fcea2995ed10cac61dc088d2d73d9
 
 
 def recur(num):
@@ -42,5 +46,10 @@ print(recur(5))
 
 print("this is another test line")
 
+<<<<<<< HEAD
 
 print("second dummy print")
+=======
+print("this is dummy code")
+
+>>>>>>> dd3876540e7fcea2995ed10cac61dc088d2d73d9
