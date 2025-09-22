@@ -22,6 +22,14 @@ def check_age(age):
         return "your able to vote"
     else:
         return "not able to vote"
-
-
 check_age(20)
+
+
+
+def recur(num):
+    if num <= 0:
+        return 0
+    else:
+        result = num + recur(num - 1)
+        return result
+print(recur(5))  
