@@ -26,4 +26,9 @@ def check_age(age):
 
 check_age(20)
 
+<<<<<<< HEAD
 print("this is another test line")
+=======
+
+print("this is testing")
+>>>>>>> b4a92a9b21454f54b3249449a61d132067bfdb1e
