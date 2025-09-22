@@ -22,3 +22,6 @@ def check_age(age):
         return "your able to vote"
     else:
         return "not able to vote"
+
+
+check_age(20)
