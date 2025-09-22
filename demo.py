@@ -24,6 +24,7 @@ def check_age(age):
         return "not able to vote"
 check_age(20)
 
+<<<<<<< HEAD
 
 
 def recur(num):
@@ -33,3 +34,6 @@ def recur(num):
         result = num + recur(num - 1)
         return result
 print(recur(5))  
+=======
+print("this is another test line")
+>>>>>>> f0ac7dbf71ddac7183f5ed9c502d5b015f623639
