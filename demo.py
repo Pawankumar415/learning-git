@@ -30,7 +30,6 @@ print("this is another test line")
 =======
 
 print("this is testing")
->>>>>>> b4a92a9b21454f54b3249449a61d132067bfdb1e
 =======
 
 
@@ -43,5 +42,6 @@ def recur(num):
 print(recur(5))  
 =======
 print("this is another test line")
->>>>>>> f0ac7dbf71ddac7183f5ed9c502d5b015f623639
->>>>>>> main
+
+print("this is dummy code")
+
